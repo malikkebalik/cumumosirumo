@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://cumumosirumo.pages.dev/sitemap.xml
